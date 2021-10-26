@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Decántalo, un eCommerce de vinos sin igual</title>
+    <link>https://www.prestashop.com/es/blog/caso-exito-decantalo-vino</link>
+    <description>El pasado mes de abril nos reunimos con Héctor Plá, co-fundador e eCommerce Marketing Online Manager de Decántalo, un eCommerce dedicado a la vent</description>
+     <pubDate>Mon, 18 Oct 2021 15:42:27 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/caso-exito-decantalo-vino</guid>
+  </item>
+  <item>
+    <title>Guía de Instagram Ads ¿cómo crear una campaña para tu negocio?</title>
+    <link>https://www.prestashop.com/es/blog/crear-instagram-ads-ecommerce</link>
+    <description>Si tienes una tienda online, sea del sector que sea, conviene prestar atención a las redes sociales, especialmente </description>
+     <pubDate>Fri, 15 Oct 2021 16:59:11 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-instagram-ads-ecommerce</guid>
+  </item>
+  <item>
+    <title>Consejos y módulos para preparar las promociones de Black Friday y Navidad</title>
+    <link>https://www.prestashop.com/es/blog/consejos-modulos-navidad-black-friday</link>
+    <description>Ahora que hemos vuelto todos al colegio, como aquel que dice, toca empezar a preparar la campañ</description>
+     <pubDate>Thu, 07 Oct 2021 15:32:52 +0200</pubDate>
+ <dc:creator>Ana Aguirre</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consejos-modulos-navidad-black-friday</guid>
+  </item>
+  <item>
+    <title>Por qué y cómo optimizar tu túnel de compra</title>
+    <link>https://www.prestashop.com/es/blog/como-optimizar-tunel-compra</link>
+    <description>Cómo usar las herramientas adecuadas para mejorar la tasa de conversión de tu tienda. </description>
+     <pubDate>Mon, 27 Sep 2021 11:04:56 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-optimizar-tunel-compra</guid>
+  </item>
+  <item>
+    <title>Fechas imprescindibles para preparar el último trimestre 2021 en eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/fechas-ecommerce-ultimo-trimestre</link>
+    <description>¿Sabes cuáles son las fechas promocionales imprescindibles para preparar tu campaña de Navidad en eCommerce?</description>
+     <pubDate>Tue, 21 Sep 2021 10:39:49 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/fechas-ecommerce-ultimo-trimestre</guid>
+  </item>
+  <item>
+    <title>5 Consejos para optimizar la vuelta al cole de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/consejos-vuelta-colegio</link>
+    <description>Septiembre es el momento de volver a la rutina, al cole y al trabajo, pero también viene marcado por un aumento del consumo.</description>
+     <pubDate>Tue, 21 Sep 2021 10:29:38 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consejos-vuelta-colegio</guid>
+  </item>
+  <item>
+    <title>Cómo redactar contenido de calidad para Google y para tus usuarios</title>
+    <link>https://www.prestashop.com/es/blog/contenido-calidad-ecommerce</link>
+    <description>La lucha por el pódium de las primeras posiciones orgánicas en Google se debate diariamente entre todos los copywriters especialistas en </description>
+     <pubDate>Mon, 13 Sep 2021 14:35:39 +0200</pubDate>
+ <dc:creator>Marta Paez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/contenido-calidad-ecommerce</guid>
+  </item>
+  <item>
+    <title>Estás en el mejor momento de integrarte al eCommerce y prepararte para el fin de año</title>
+    <link>https://www.prestashop.com/es/blog/preparar-ecommerce-openpay</link>
+    <description>Definitivamente el año pasado y éste han sido los idóneos para el eCommerce.</description>
+     <pubDate>Thu, 09 Sep 2021 10:43:58 +0200</pubDate>
+ <dc:creator>Openpay</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/preparar-ecommerce-openpay</guid>
+  </item>
+  <item>
+    <title>¿Cómo mejorar la atención al cliente en un eCommerce? </title>
+    <link>https://www.prestashop.com/es/blog/consejos-mejorar-atencion-cliente</link>
+    <description>Las ventajas de hacer la compra online son muchas, especialmente si eres nativo digital y manejas el entorno con soltura.</description>
+     <pubDate>Wed, 08 Sep 2021 11:44:28 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consejos-mejorar-atencion-cliente</guid>
+  </item>
+  <item>
+    <title>¿Qué es la Ventanilla Única del IVA  o One Stop Shop?</title>
+    <link>https://www.prestashop.com/es/blog/definicion-ventanilla-unica-iva</link>
+    <description>La fiscalidad y la contabilidad son dos grandes pilares dentro de un eCommerce.</description>
+     <pubDate>Fri, 03 Sep 2021 10:45:16 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/definicion-ventanilla-unica-iva</guid>
+  </item>
+  </channel>
+</rss>

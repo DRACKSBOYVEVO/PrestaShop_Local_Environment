@@ -1,0 +1,32 @@
+@import "compass";
+@import "theme_variables";
+/*********************************************************************
+					Maintenance Page Styles
+**********************************************************************/
+#body {
+	background-color: #F7F7F7;
+}
+#maintenance {
+	margin: 50px 0 0 0;
+	background-color: #fff;
+	@include box-shadow(0 1px 3px rgba(0, 0, 0, 0.3));
+	.logo {
+		margin: 0 0 31px 0;	
+		text-align: center;
+	}
+	h1 {
+		font: 24px $font-custom;
+		color: $base-text-color;
+		padding: 0 0 14px 0;
+		margin: 0 0 19px 0;
+	}
+	#message {
+		font: 14px $font-custom;
+		color: #555454;
+		text-align: center;	
+	}
+}
+img {
+  max-width: 100%;
+  height: auto; 
+}
